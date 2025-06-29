@@ -1,0 +1,6 @@
+#.gitignore
+config.configconfig.py
+__pycache__/
+*.env
+venv/
+question_7/src/config.py
