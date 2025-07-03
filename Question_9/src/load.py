@@ -25,7 +25,7 @@ def load_data_into_sql_server(data):
         #print("Work more on Stag Data") 
         e
 
-#=========== Load it into the MySql Server =================
+#=========== Load the clean data it into the MySql Server =================
 
 from Question_7.src.util import mysql_get_engine
 

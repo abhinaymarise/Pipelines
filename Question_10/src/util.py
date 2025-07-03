@@ -24,5 +24,5 @@ def ssms_connection():
 
 engine=ssms_connection()
 with engine.connect():
-    print("database created hopefully")
+    print("database created!")
 

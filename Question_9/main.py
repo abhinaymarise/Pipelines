@@ -37,6 +37,6 @@ from Question_9.src.transform import transform
 data_to_be_sent=transform()
 
 # ============== Calling the Load function ===========
-from Question_9.src.load import load_into_mysql_server
 
+from Question_9.src.load import load_into_mysql_server
 load_into_mysql_server(data_to_be_sent)
